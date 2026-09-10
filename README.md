@@ -1,19 +1,55 @@
-📅 Onde Hoje
-é um protótipo de site criado para representar a ideia de uma plataforma que facilitaria a organização de eventos e a interação entre universitários.
+# Onde Hoje? 📅
 
-O projeto foi desenvolvido como parte de um trabalho acadêmico e foi destacado na PUCPR por sua proposta inovadora.
-🔗 Confira a publicação do destaque no LinkedIn: https://www.linkedin.com/posts/joselainevalaski_hoje-foi-o-dia-de-premiar-a-equipe-com-o-activity-7186517360529313792-Jlzg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1JXFQBJdAbyuagIuGWSR4p28xOA4U_ZKw
+O **Onde Hoje?** é um protótipo de plataforma voltada para a descoberta de eventos, lugares e pessoas com interesses em comum, com foco na interação entre universitários.
 
-🎯 Objetivo
-Representar visualmente o conceito de um site voltado para eventos sociais
+O projeto foi desenvolvido em equipe durante o **1º período de Sistemas de Informação na PUCPR** e foi reconhecido como **melhor trabalho do período**, destacando-se pela proposta e apresentação do projeto.
 
-Explorar conhecimentos básicos de HTML, CSS e JavaScript
+🔗 [Confira a publicação do reconhecimento no LinkedIn](https://www.linkedin.com/posts/joselainevalaski_hoje-foi-o-dia-de-premiar-a-equipe-com-o-activity-7186517360529313792-Jlzg)
 
-Servir como base para aprimoramentos futuros com funcionalidades reais
+## 🎯 Objetivo
 
-🛠 Tecnologias Utilizadas
-HTML – Estrutura da página
+O projeto teve como objetivo representar o conceito de uma plataforma que ajudaria estudantes a:
 
-CSS – Estilização e organização visual
+- Encontrar pessoas próximas com interesses em comum
+- Descobrir lugares e atividades próximos
+- Avaliar locais
+- Encontrar e compartilhar interesses
+- Explorar diferentes funcionalidades relacionadas à vida universitária
 
-JavaScript – Aplicado apenas de forma básica para composição da estrutura (sem funcionalidades interativas)
+Além da proposta da plataforma, o projeto serviu para aplicar conceitos fundamentais de desenvolvimento web aprendidos durante o primeiro período.
+
+## 🛠️ Tecnologias utilizadas
+
+- **HTML5** — Estrutura e organização das páginas
+- **CSS3** — Estilização, layout e identidade visual
+- **JavaScript** — Scripts e funcionalidades básicas de navegação
+
+## 📸 Preview
+
+### Página inicial
+
+![Página inicial](images/home.png)
+
+### Perfil
+
+![Perfil](images/perfil.png)
+
+### Top Roles
+
+![Top Roles](images/roles.png)
+
+## 👥 Equipe
+
+Projeto desenvolvido em equipe por estudantes de Sistemas de Informação da PUCPR:
+
+- [**Gustavo Delinski Tavares**](https://www.linkedin.com/in/gustavo-delinski-tavares/)
+- [**Afonso Muller**](https://www.linkedin.com/in/afonso-muller/)
+- [**Gabriel Baczinski Santana**](https://www.linkedin.com/in/gabrielbaczinski/)
+- [**João Pedro Cardoso de Liz**](https://www.linkedin.com/in/jcliz/)
+- **Lucas Bigardi Ribeiro**
+
+## 🎓 Contexto acadêmico
+
+Projeto desenvolvido como parte das atividades acadêmicas do **1º período de Sistemas de Informação da PUCPR**.
+
+O trabalho foi reconhecido como **melhor trabalho do período**, recebendo destaque pela proposta apresentada pela equipe.
